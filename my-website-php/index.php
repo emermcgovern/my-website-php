@@ -3,10 +3,10 @@
   <html> 
     <head>
       <title>Home Page<?php echo $title?> </title> 
-   <?php include './components/nav-menu.php'; ?>
+      <?php include './components/head.php'; ?>
 </head> 
-  <body> 
-<?php include './components/header.php'; ?>
+  <body>
+  <?php include './components/nav-menu.php'; ?>
     <h1>Welcome to my website</h1>
           <p> On this website there is a total of five pages to learn more about my placement experience, 
          volunteering and part time job. This website also includes
@@ -35,6 +35,7 @@
         <p>On this webpage I write a short piece about my current placement.
           I detail what I do for placment as well as highlighting how COVID 19 has affected my experience.</p>
         </ul>
+        <?php include './components/footer.php'; ?>
    </body>
 </html>
 

@@ -50,5 +50,6 @@
           Not only is it nice to recieve an award for our work but these awards also make your 
           Curriculum Vitae stand out when looking for a job in the future.</p>
         </div>      
+        <?php include './components/footer.php'; ?>
      </body>
  </html>

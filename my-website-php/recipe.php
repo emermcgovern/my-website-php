@@ -51,6 +51,7 @@
             <br> 
                 <li>When ready to serve,release the catch of the springform tin carefully, then slice and serve</li>
             </ol> 
-    </div>
+      </div>
+    <?php include './components/footer.php'; ?>
   </body>
 </html>

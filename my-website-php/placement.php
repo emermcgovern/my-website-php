@@ -33,5 +33,6 @@
            I have complete freedom on how I work on the tasks. I usually break the work up over 2 or 3 days. 
            The remote placement expierence has also allowed me to become
            much more independent and self motivated.</p>
-        </body>
+            <?php include './components/footer.php'; ?> 
+          </body>
       </html>

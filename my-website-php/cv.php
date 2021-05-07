@@ -98,6 +98,7 @@
                <p> Ms. Jenny Hynes</p>
                <p> Centre Parcs Longford Forest, </p> 
                <p> Ballymahon Longford.</p>
-               <p> Tel. +353 90649480. </p>    
+               <p> Tel. +353 90649480. </p>   
+          <?php include './components/footer.php'; ?>
         </body>
       </html>
